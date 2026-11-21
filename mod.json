@@ -1,0 +1,12 @@
+{
+  "geode": "v4.10.2",
+  "gd": {
+    "win": "2.2074",
+    "android": "2.2074"
+  },
+  "id": "botinok.menu",
+  "name": "BotinokMenu",
+  "version": "v1.0.0",
+  "developer": "Botinok",
+  "description": "Orange themed Geometry Dash mod menu."
+}
